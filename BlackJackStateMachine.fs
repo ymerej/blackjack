@@ -1,4 +1,4 @@
-﻿open System
+﻿module BlackJackStateMachine
 
 type blackJackStateMachine =
     | DealPlayerFirstCard of Game
